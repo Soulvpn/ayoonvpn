@@ -12,12 +12,12 @@
       },
 
 {
-         "name": "SG-MECTEL-NOPRO",
+         "name": "BETA-MECTEL-NOPRO",
          "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/mectel.ovpn"
       },
 
 {
-         "name": "SG-OOREDOO-NOPRO",
+         "name": "BETA-OOREDO-NOPRO",
          "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/ooredoo.ovpn"
       },
 {
@@ -30,7 +30,7 @@
       }
 
    ],
-"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Ooredoo No Pro\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 08/02/2022 \nConfig version: 10.0\nVIP 1 MONTH- 30BATH",
+"message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Ooredoo No Pro\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 08/02/2022 \nConfig version: 11.0\nVIP 1 MONTH- 30BATH",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
-   "version": 15
+   "version": 16
 }
