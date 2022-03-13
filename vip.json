@@ -3,22 +3,22 @@
 
 {
 "name": "SG-TRUE-NOPRO-01",
-"url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/vip.ovpn"
+"url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/free3.ovpn"
 },
 
 {
          "name": "SG-DTAC-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/vip2.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/free4.ovpn"
       },
 
 {
          "name": "BETA-MECTEL-NOPRO",
-         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/mectel.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/free1.ovpn"
       },
 
 {
          "name": "BETA-OOREDO-NOPRO",
-         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/ooredoo.ovpn"
+         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/free2.ovpn"
       },
 {
          "name": "VIP-TRUE-NOPRO_01",
@@ -32,5 +32,5 @@
    ],
 "message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Ooredoo No Pro\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 08/02/2022 \nConfig version: 13.0\nVIP 1 MONTH- 30BATH",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
-   "version": 20
+   "version": 21
 }
