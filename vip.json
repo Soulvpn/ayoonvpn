@@ -7,7 +7,7 @@
 },
 
 {
-         "name": "SG-TRUE-DTAC-NOPRO",
+         "name": "SG-TRUE-NOPRO_01",
          "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/GTMConfig-2.ovpn"
       },
 
@@ -24,5 +24,5 @@
    ],
 "message":"SERVER LIST...\n-Fast Singapore Server\n-Fast Thailand Server\n-VIP Singapore Server\n-VIP Thailand Server\n\nSupport Sim & Promo\n-True No Pro\n-Ooredoo No Pro\n-Dtac Line\n-Dtac No Pro\n-Mec Nopro\n\nUpdate: 16/03/2022 \nConfig version: 2.0",
    "title":"NEW CONFIG UPDATE AVAILABLE" ,
-   "version": 26
+   "version": 27
 }
