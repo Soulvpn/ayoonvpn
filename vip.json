@@ -7,7 +7,7 @@
 },
 
 {
-         "name": "SG-TRUE-NOPRO_01",
+         "name": "SG-TRUE-NOPRO_02",
          "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/GTMConfig-2.ovpn"
       },
 
@@ -17,8 +17,8 @@
       },
 
 {
-         "name": "BETA-OOREDO-NOPRO",
-         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/free2.ovpn"
+         "name": "SG-TRUE-NOPRO-01",
+         "url": "https://raw.githubusercontent.com/Soulvpn/ayoonvpn/main/OK.ovpn"
          
 }
    ],
